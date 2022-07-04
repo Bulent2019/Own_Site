@@ -1,0 +1,93 @@
+body {
+    background-color: lightgrey;
+    text-align: center ;
+}
+
+#cv {
+    float: right;
+    margin-right: 50px;
+    font-size: 26px;
+    color: darkviolet;
+    background-color: rgb(169, 231, 247);
+    border-radius: 5px;
+    border: 2px solid black;
+
+}
+
+#navigation a {
+    background-color: rgb(85, 84, 84);
+    padding: 3%;
+    display: block;
+    float: right;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#navigation a:hover {
+    background-color: rgb(153, 153, 153);
+    color: rgb(255, 255, 255);
+}
+
+#navigation a.active {
+    background-color: rgb(85, 85, 85);
+    color: white;
+}
+
+.home {
+    color: white;
+}
+
+.me {
+    color: white;
+}
+
+.expirience {
+    color: white;
+}
+
+.education {
+    color: white;
+}
+
+.contact {
+    color: white;
+}
+
+.headers {
+    text-align: left;
+    margin-left: 10%;
+}
+
+
+
+.aboutMe {
+    width: 50%;
+    margin-left: 15%;
+    text-align: justify;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 20px;
+}
+
+hr {
+    width: 80%;
+    height: 3px;;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.projects {
+    margin-left: 10px;
+    font-size: 20px;
+}

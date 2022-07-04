@@ -1,0 +1,40 @@
+/* h1 {
+    margin-top: 10%;
+} */
+
+hr {
+    width: 80%;
+    height: 3px;;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+
+#experience {
+    text-align: left;
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-bottom: 20%;
+}
+
+#experienceparagraph {
+    width: 70%;
+    margin-left: 5%;
+    border: 5px solid black;
+    border-radius: 25px;
+}
+
+.experiencelist {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+#listdate {
+    color: blue;
+}
+
+article {
+    text-align: left;
+    margin-left: 5%;
+    margin-bottom: 20%;
+}
